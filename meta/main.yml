@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: IAC_apache
   author: mikajvd
-  description: This role installs and configures Apache and MySQL on a Debian-based system.
+  description: This role installs and configures Apache on a Debian-based system.
   company: MD365IT
   license: MIT
   min_ansible_version: 2.9
